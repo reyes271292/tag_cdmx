@@ -1,0 +1,17 @@
+span { 
+	color: black;
+ 	font-family: Verdana; 
+ 	text-align: center;
+ 	font-size: 22px;
+}
+
+#id_unico {
+	font-size: 24px;
+	color: #FFA500;
+}
+
+.clase_css{
+	font-size: 28px;
+	color: #0000FF;
+}
+
