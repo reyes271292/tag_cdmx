@@ -1,0 +1,16 @@
+*{
+	margin: 10px;
+} 
+p:nth-child(odd){
+	background: #339B8A;
+	opacity:0.7;
+}
+p:nth-child(even){
+	background: #BCC8D3;
+}
+/*Comentarios
+	odd indice impar
+	even indice par
+	color: #FFA500;
+*/
+
