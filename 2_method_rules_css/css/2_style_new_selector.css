@@ -1,0 +1,15 @@
+*{
+	margin: 10px;
+} 
+div > p.selector_uno {
+	color: #8FB4D3;
+	font-size: 22px;
+}
+
+p.selector_dos + h2{
+	color: #682A66;
+}
+
+p.selector_tres ~ h3{
+	color: #2682D3;
+}
