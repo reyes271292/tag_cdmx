@@ -20,3 +20,8 @@ h2.clase_css{
 	color: #2B7250;
 }
 
+p[name="parrafo"]{
+	font-size: 32px;
+	color: #722C2B;
+}
+
